@@ -28,3 +28,7 @@ include_directories(include)
 #        add_executable(dvl_test src/main.cc)
 #        target_link_libraries(dvl_test workhorse_lib)
 #endif()
+
+# Testing
+add_executable(player src/b2d_player.cc)
+

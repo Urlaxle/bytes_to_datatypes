@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Folders
+build/
+
+
+# Binary files
+*.bin
+
+# Swap files
+*.swp
